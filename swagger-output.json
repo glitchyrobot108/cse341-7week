@@ -8,7 +8,7 @@
   "host": "casey-cse341-24.onrender.com/contacts",
   "basePath": "/",
   "schemes": [
-    "http"
+    "https"
   ],
   "paths": {
     "/": {
