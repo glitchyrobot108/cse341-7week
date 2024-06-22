@@ -5,10 +5,10 @@
     "description": "Description",
     "version": "1.0.0"
   },
-  "host": "https://casey-cse341-24.onrender.com/contacts",
+  "host": "localhost:3000/contacts",
   "basePath": "/",
   "schemes": [
-    "https"
+    "http"
   ],
   "paths": {
     "/": {
